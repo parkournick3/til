@@ -16,6 +16,7 @@ _1 TILs and counting..._
 - [Simple http server](nodejs/simple-http-server.md)
 - [Stream Concept](nodejs/stream-concept.md)
 - [Single file database implementation](nodejs/single-file-database-implementation.md)
+- [Validating .env file with zod](nodejs/validating-env-file-with-zod.md)
 
 ## About
 
